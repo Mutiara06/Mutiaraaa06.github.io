@@ -1,5 +1,25 @@
 img{
-    float:left;
-    margin:0 10px 10px 0;
+    float: left;
+    margin: 10px;
 }
- 
+td{
+    text-align:justify;
+}
+a{
+    color:blue;
+    font-weight:bold;
+    font-style:italic;
+}
+d{
+    color:blue;
+}
+muti{
+    color:blue;
+    font-weight:normal;
+    font-style:normal;
+}
+mutii{
+    color:normal;
+    font-weight:normal;
+    font-style:italic;
+}
